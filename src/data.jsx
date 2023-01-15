@@ -40,5 +40,15 @@ export default [
         endDate:"6 June,2018",
         description:"Mussoorie, also known as Queen of the Hills, is among the most popular hill stations of the country. A Britisher, Captain Frederick Young, accompanied by an official named FJ Shore, had climbed up the hill from the Doon valley in 1827 and found this ridge offering great views and a salubrious climate. This visit laid the foundation for this grand hill station. A captivating paradise for leisure travellers and honeymooners, it is a perfect summer resort. Located on a 15-km-long horseshoe ridge with the grand Himalayas as a backdrop, Mussoorie spreads across at a height of 2,000 m above sea level. From this vantage point, it offers scenic views of Himalayas peaks in Western Garhwal.",
         coverImg:"mussoorie.jpeg",
+    },
+    {
+        id:5,
+        title:"Bangalore",
+        location:"India",
+        googleMapsUrl:"https://goo.gl/maps/SPKPF8ZSJiAuDnr58",
+        startDate:"23 Nov,2018",
+        endDate:"27 Nov,2018",
+        description:"Bengaluru (also called Bangalore) is the capital of India's southern Karnataka state. The center of India's high-tech industry, the city is also known for its parks and nightlife. By Cubbon Park, Vidhana Soudha is a Neo-Dravidian legislative building. Former royal residences include 19th-century Bangalore Palace, modeled after England’s Windsor Castle, and Tipu Sultan’s Summer Palace, an 18th-century teak structure.",
+        coverImg:"bangalore.jpeg",
     }
 ];
