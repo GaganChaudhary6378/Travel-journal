@@ -69,3 +69,11 @@ body{
   margin-top: 8px;
   line-height: 150%;
 }
+.foot-el{
+  display: flex;
+  justify-content: center;
+  color: white;
+  padding: 10px;
+  max-width: 100%;
+  background-color: black;
+}

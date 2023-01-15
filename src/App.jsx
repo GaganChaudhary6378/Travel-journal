@@ -2,6 +2,7 @@ import React from "react";
 import data from "./data";
 import Card from "./Card";
 import Navbar from "./Navbar";
+import Footer from "./Footer";
 
 
 export default function App(){
@@ -17,6 +18,7 @@ export default function App(){
         <div>
             <Navbar/>
             {content}
+            <Footer/>
         </div>
     )
 }
