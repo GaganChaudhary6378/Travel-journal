@@ -1,6 +1,9 @@
 *{
   margin: 0;
 }
+body{
+  font-family: 'Inter';
+}
 .nav-el{
   display: flex;
   justify-content: center;
